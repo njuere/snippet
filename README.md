@@ -1,2 +1,2 @@
-#Snippet
-A challenge from CODEWELL, coded by Charity Osang
+# Code Snippet
+A challenge from CODEWELL, coded by Charity Osang.

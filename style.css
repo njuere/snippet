@@ -32,6 +32,7 @@ nav .right a{
 nav > img{
     display: none;
 }
+
 div.first-text ul li{
     padding-right: 15px;
     list-style: none;
@@ -204,6 +205,10 @@ nav .right{
     top: 0;
     left: 0;
     margin: 0;
+    left: 75px;
+    width: 80vw;
+    height: 100vh;
+    margin-top: 55px; 
     background-color: white;
     justify-content: space-around;
     padding-left: 15px;
@@ -211,6 +216,12 @@ nav .right{
 nav .right a{
     display: block;
     margin-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+}
+nav .right .get-started{
+    width: 80%;
     padding-top: 10px;
 }
 nav > img{
